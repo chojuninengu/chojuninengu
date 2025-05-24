@@ -11,7 +11,7 @@
 
 ## 🌟 Profile Views  
 
-![Profile Views](https://komarev.com/ghpvc/?username=chojuninengu &color=blue)  
+![Profile Views](https://komarev.com/ghpvc/?username=chojuninengu&color=blue)  
 
 ---
 ### 🔧 Tech Stack  
