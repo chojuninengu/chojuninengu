@@ -8,6 +8,11 @@
 
 
 [![chojuninengu Banner](https://readme-typing-svg.demolab.com/?lines=👋+Hi+there,+I'm+chojuninengu!;🚀+Welcome+to+My+GitHub+Profile!;🔥+Constantly+expanding+my+skill+set;Staying+up+to+date+with+the+latest+trends&center=true&width=1000&size=30&duration=3000&pause=1000)](https://git.io/typing-svg)
+
+## 🌟 Profile Views  
+
+![Profile Views](https://komarev.com/ghpvc/?username=chojuninengu &color=blue)  
+
 ---
 ### 🔧 Tech Stack  
 
