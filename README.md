@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=900&lines=🦀+Rust+Developer+%26+Systems+Engineer;🛡️+Cybersecurity+%26+Linux+Enthusiast;☁️+Cloud+%26+Infrastructure+Explorer;🔧+Building+tools+that+matter;📡+Wazuh+%7C+Suricata+%7C+Kubernetes+%7C+Docker;🌍+Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=900&lines=🦀+Rust+Developer+%26+Systems+Engineer;🛡️+Cybersecurity+%26+Linux+Enthusiast;☁️+Cloud+%26+Infrastructure+Explorer;🔧+Building+tools+that+matter;📡+Wazuh+%7C+Suricata+%7C+Kubernetes+%7C+Docker;🌍+Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
@@ -106,7 +106,7 @@ impl Developer {
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chojuninengu&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chojuninengu&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chojuninengu&layout=compact&langs_count=7&theme=github_dark&hide_border=true" height="180" alt="Top Languages" />
 </p>
 
@@ -128,13 +128,13 @@ impl Developer {
 
 ---
 
-## 🐍 Contribution Snake
+## 🌐 3D Contribution Calendar
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chojuninengu/chojuninengu/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chojuninengu/chojuninengu/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/chojuninengu/chojuninengu/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chojuninengu/chojuninengu/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chojuninengu/chojuninengu/main/profile-3d-contrib/profile-season-animate.svg" />
+    <img alt="3D Contribution Calendar" src="https://raw.githubusercontent.com/chojuninengu/chojuninengu/main/profile-3d-contrib/profile-night-rainbow.svg" />
   </picture>
 </p>
 
